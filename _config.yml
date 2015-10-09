@@ -1,2 +1,3 @@
 name: Jessica Tieman, MLS
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
